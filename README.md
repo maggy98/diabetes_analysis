@@ -49,7 +49,7 @@ Best parameters: {'max_depth': 5, 'max_features': 3}
 ![download9](https://user-images.githubusercontent.com/62389300/214909898-7e0ec6da-1c78-4810-9216-b6d8898676e7.png)
 
 
-#Traning random forest:
+# Traning random forest:
 
 Best score: 0.7760082023239919
 Best parameters: {'criterion': 'entropy', 'max_features': 4, 'n_estimators': 50}
