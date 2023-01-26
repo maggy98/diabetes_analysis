@@ -23,7 +23,7 @@ After:
 
 ![download3](https://user-images.githubusercontent.com/62389300/214905589-07d5cfff-109f-4122-adcd-2ec786880e90.png)
 
-#Traning decision tree:
+# Traning decision tree:
 Repeting experiment 1000 times
 
 ![download4](https://user-images.githubusercontent.com/62389300/214907515-5fde728b-1157-461b-ae8a-deaf9ef1ce2b.png)
