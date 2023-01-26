@@ -46,7 +46,7 @@ Best parameters: {'max_depth': 5, 'max_features': 3}
 
 ![download8](https://user-images.githubusercontent.com/62389300/214908907-701b780a-5436-4bf8-9798-7aebea0ec6c2.png)
 
-![download8](https://user-images.githubusercontent.com/62389300/214909412-5818c3c1-9fcb-4b09-8c02-f258557b2781.png)
+![download9](https://user-images.githubusercontent.com/62389300/214909898-7e0ec6da-1c78-4810-9216-b6d8898676e7.png)
 
 
 #Traning random forest:
